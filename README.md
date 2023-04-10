@@ -9,7 +9,7 @@
 
 - I have more than one year of experience in mobile applications development using flutter.
 
-- I have used Dart, Bloc(cubit), SQFLite, Firebase, and Restful APIs to make applications using Flutter.
+- I have used Dart, Bloc(cubit), SQFLite, Firebase,laravel php and Restful APIs to make applications using Flutter.
 
 - 📫 How to reach me **yousef.hanafy@gmail.com**
 
