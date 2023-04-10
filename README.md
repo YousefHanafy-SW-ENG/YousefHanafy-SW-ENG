@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yousef Hanafy</h1>
 <h3 align="center">A passionate Mobile developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Food-deleivery_app](https://github.com/YousefHanafy-SW-ENG/Food_delivery-app)
+- 👋 Hi, I’m @YousefHanafy-SW-ENG
 
-- 🌱 I’m currently learning **Android,php**
+- 👀 I’m interested in Flutter development
 
-- 👯 I’m looking to collaborate on **heart_disease_prediction_app**
+- I am looking forward to improve myself, gain experience, and help other people with what I can do.
 
-- 👨‍💻 All of my projects are available at [https://github.com/YousefHanafy-SW-ENG](https://github.com/YousefHanafy-SW-ENG)
+- I have more than one year of experience in mobile applications development using flutter.
+
+- I have used Dart, Bloc(cubit), SQFLite, Firebase, and Restful APIs to make applications using Flutter.
 
 - 📫 How to reach me **yousef.hanafy@gmail.com**
 
