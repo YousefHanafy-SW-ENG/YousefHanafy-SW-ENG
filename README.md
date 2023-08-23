@@ -5,7 +5,7 @@
 
 - I Have Just graduated from Faculaty of Computer Science Future University in Egypt
 
-- 👀 I’m interested in Flutter development
+- 👀 I’m interested in Mobile Apps development
 
 - I am looking forward to improve myself, gain experience, and help other people with what I can do.
 
