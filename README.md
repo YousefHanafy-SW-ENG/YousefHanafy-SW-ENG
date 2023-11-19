@@ -9,9 +9,9 @@
 
 - So proud to be a member of programmers’ family and looking forward to join a talented organization that will give me the opportunity to effect the development of others.
 
-- I have more than one year of experience in mobile applications development using flutter.
+- I have developed many apps using Flutter and Android Kotlin.
 
-- I have used Dart, Bloc(cubit), SQFLite, Firebase,laravel php and Restful APIs to make applications using Flutter.
+- I have worked with Memory Managment, Design patterns, Solid principles to achieve the clean architecture concepts with MVP, MVVM, etc....
 
 - 📫 How to reach me **yousef.hanafy@gmail.com**
 
