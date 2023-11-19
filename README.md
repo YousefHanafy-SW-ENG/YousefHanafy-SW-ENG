@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yousef Hanafy</h1>
-<h3 align="center">A passionate Mobile developer from Egypt</h3>
+<h3 align="center">Junior Mobile Software Engineer</h3>
 
 - 👋 Hi, I’m @YousefHanafy-SW-ENG
 
-- I Have Just graduated from Faculaty of Computer Science Future University in Egypt
+- graduated from Faculaty of Computer Science Future University in Egypt and 
 
-- 👀 I’m interested in Mobile Apps development
+- With a passion for software engineering, I made the decision to follow a road map or career path that will make me part of those who will lead the future of technology in the world in the next few years.
 
-- I am looking forward to improve myself, gain experience, and help other people with what I can do.
+- So proud to be a member of programmers’ family and looking forward to join a talented organization that will give me the opportunity to effect the development of others.
 
 - I have more than one year of experience in mobile applications development using flutter.
 
