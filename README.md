@@ -9,7 +9,7 @@
 
 - So proud to be a member of programmers’ family and looking forward to join a talented organization that will give me the opportunity to effect the development of others.
 
-- I have developed many apps using Flutter and Android Kotlin.
+- I have developed many apps using Flutter and Android Kotlin with more than one year experience Mobile App Development.
 
 - I have worked with Memory Managment, Design patterns, Solid principles to achieve the clean architecture concepts with MVP, MVVM, etc....
 
