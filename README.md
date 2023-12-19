@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @YousefHanafy-SW-ENG
 
-- graduated from Faculaty of Computer Science Future University in Egypt and 
+- graduated from Faculaty of Computer Science Future University in Egypt
 
 - With a passion for software engineering, I made the decision to follow a road map or career path that will make me part of those who will lead the future of technology in the world in the next few years.
 
