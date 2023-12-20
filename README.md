@@ -14,7 +14,7 @@
 - I have worked with Memory Managment, Design patterns, Solid principles to achieve the clean architecture concepts with MVP, MVVM, etc....
   
 - I have experience in clean code, Git, Git flow.
-- 
+  
 - I have more than one year experience as a software instructor.
 
 - 📫 How to reach me **yousef.hanafy@gmail.com**
