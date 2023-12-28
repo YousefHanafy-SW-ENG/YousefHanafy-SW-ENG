@@ -34,3 +34,5 @@
 # Samples from my projects
 
 ### Volunteers Life Makers
+
+Volunteers Life Makers is a dynamic mobile application dedicated to fostering positive change. Users can seamlessly join and support diverse charity campaigns aligned with their values. The app provides quick access to volunteer opportunities, allowing individuals to make a direct impact in their communities. With a unique feature, users can participate in concise charity elections, influencing donation directions within a limited time frame. CharityConnect is designed to empower users to contribute meaningfully to charitable causes, making philanthropy accessible and impactful in just a few taps.
