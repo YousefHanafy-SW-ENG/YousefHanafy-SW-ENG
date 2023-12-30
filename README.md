@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Hanafy</h1>
-<h3 align="center">Junior Mobile Software Engineer</h3>
+<h3 align="center">Mobile Software Engineer</h3>
 
 - 👋 Hi, I’m @YousefHanafy-SW-ENG
 
