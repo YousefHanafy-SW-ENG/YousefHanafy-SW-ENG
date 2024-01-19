@@ -30,15 +30,6 @@ Volunteers Life Makers application serves as a direct bridge for communication a
 [![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://apps.apple.com/eg/app/life-makers/id6473867192)
 
 <hr>
-## 🛠️ My Skills
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefHanafy-SW-ENG&layout=compact&hide=html" alt="Yousef Hanafy" /></p>
-<br>
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YousefHanafy-SW-ENG&show_icons=true" alt="Yousef Hanafy" /></p>
-
-
 
 ### 🔵 Tools
 <p align="center">
