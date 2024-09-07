@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Hanafy</h1>
 <h3 align="center">Mobile Software Engineer</h3>
 
-- A passionate Mobile Software Engineer with a knack for crafting engaging, user-centric applications. My journey in tech has been driven by a commitment to continuous learning, evident in my dedication to developing innovative software solutions. Specializing in Mobile Application Development, I thrive on turning complex problems into intuitive and impactful digital experiences. My approach is centered around leveraging the latest technologies to deliver seamless and dynamic applications that enhance user experience and meet business needs.
+- I’m a Mobile Software Engineer with over 2 years of experience building user-focused applications across industries like e-commerce, e-learning, donations, and volunteering. My expertise lies in creating apps used by thousands of users, transforming complex problems into seamless, intuitive solutions. By leveraging the latest technologies, I deliver innovative mobile experiences that not only enhance user satisfaction but also meet business objectives.
      
 - 📫 How to reach me **yousef.hanafy@gmail.com**
 
