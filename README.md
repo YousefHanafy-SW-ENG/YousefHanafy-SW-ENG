@@ -21,7 +21,7 @@ Mega Top is your premier destination for the latest technology devices. From sma
 
 
 [![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/11cb6d44-934c-4865-94c1-601a01a9b135)](https://play.google.com/store/apps/details?id=com.megaTop.mega_top_mobile&pcampaignid=web_share) 
-[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://drive.google.com/file/d/1a1R41gyo8233qa6-s82IacOgXGLGOlIW/view?usp=sharing)
+[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://apps.apple.com/eg/app/megatop/id6714483744)
 
 <hr>
 
