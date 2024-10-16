@@ -62,3 +62,6 @@ Road App is an innovative mobile application designed to streamline and enhance 
 
 <hr>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YousefHanafy-SW-ENG&theme=dark)](https://git.io/streak-stats)
+
+
