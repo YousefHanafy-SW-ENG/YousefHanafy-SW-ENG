@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yousef Hanafy</h1>
 <h3 align="center">Mobile Software Engineer</h3>
 
-- I’m a Mobile Software Engineer with over 2 years of experience building user-focused applications across industries like e-commerce, e-learning, donations, and volunteering. My expertise lies in creating apps used by thousands of users, transforming complex problems into seamless, intuitive solutions. By leveraging the latest technologies, I deliver innovative mobile experiences that not only enhance user satisfaction but also meet business objectives.
+- I’m a Mobile Software Engineer with 2+ years of experience building user-centered apps across industries like e-commerce, e-learning, and volunteering. I specialize in creating intuitive solutions that enhance user satisfaction and meet business goals.
+
+Beyond tech, I’m a dedicated gym enthusiast with 4 years of experience. I also help athletes with strength, conditioning, and nutrition. Whether through coding or fitness, I’m passionate about inspiring others to push their limits and grow.
      
 - 📫 How to reach me **yousef.hanafy@gmail.com**
 
