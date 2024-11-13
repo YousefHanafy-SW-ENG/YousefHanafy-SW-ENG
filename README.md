@@ -40,7 +40,7 @@ Volunteers Life Makers application serves as a direct bridge for communication a
 
 ### Laam App 
 
-Laam is an innovative mobile application developed in collaboration with the Saudi Arabian Learning Governance. This app provides a comprehensive platform for students to access educational resources, participate in interactive lessons, and track their academic progress. Designed with user-friendly navigation and intuitive features, Laam ensures a seamless learning experience for students of all ages. Enhance your educational journey with Laam, where quality education meets modern technology.
+Laam is a versatile dashboard platform designed specifically for educational organizations. It provides customized tools and interfaces for admins, managers, and teachers, making daily operations seamless and intuitive. By centralizing key functions, Laam simplifies administrative tasks, supports better decision-making, and enhances the overall user experience across different roles. Built with a modern tech stack, Laam empowers educational teams to manage resources efficiently, improve workflow, and focus more on impactful learning.
 
 
 
