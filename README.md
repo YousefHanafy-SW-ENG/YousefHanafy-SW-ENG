@@ -62,8 +62,8 @@ Road App is an innovative mobile application designed to streamline and enhance 
 
 <hr>
 
-<div align="center" style="background-color: #282a36; padding: 10px; border-radius: 5px;">
-  <img src="https://streak-stats.demolab.com?user=YousefHanafy-SW-ENG&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YousefHanafy-SW-ENG&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 
