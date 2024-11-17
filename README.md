@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Hanafy</h1>
 <h3 align="center">Mobile Software Engineer</h3>
 
-- I’m a Mobile Software Engineer with over 2 years of experience crafting user-centered applications in e-commerce, e-learning, donations, and volunteering. My expertise lies in building professional, high-quality apps used by thousands, transforming complex challenges into seamless, intuitive experiences. With a solid foundation in software engineering, I’m constantly exploring new ideas and technologies to enhance my products, delivering both user satisfaction and business success.
+- Mobile Software Engineer with over 2 years of experience in Flutter and Android native development, specializing in creating high-quality, user-focused applications across industries such as e-commerce, e-learning, donations, and volunteering. Adept at transforming complex requirements into elegant, intuitive solutions, I prioritize both user satisfaction and business objectives. Proficient in Git version control, GitHub, CI/CD pipelines, and agile frameworks (Scrum), I am dedicated to maintaining high code quality standards and consistently applying best practices. Known for strong leadership and presentation skills, I effectively communicate ideas and inspire team cohesion. Passionate about continuous learning and innovation, I aim to deliver impactful, reliable products that exceed expectations.
      
 - 📫 How to reach me **yousef.hanafy@gmail.com**
 
