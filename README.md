@@ -12,9 +12,21 @@
 
 # Samples from my projects
 
+### Koala
+
+The Koala application is your integrated platform to monitor and care for your child with ease and safety. Whether you want to monitor your child's growth, record their beautiful moments, or share experiences with other parents, Koala provides you with smart tools to support your parenting journey. Through the application, you can track your child’s development and document each stage of his development, share daily moments and tips with a supportive community of parents.
+
+
+
+
+[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/11cb6d44-934c-4865-94c1-601a01a9b135)](https://play.google.com/store/apps/details?id=com.digifly.koala&pcampaignid=web_share) 
+[![appStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://apps.apple.com/eg/app/koala/id6745189505)
+
+<hr>
+
 ### Mega Top 
 
-Mega Top is your premier destination for the latest technology devices. From smartphones to laptops, our app offers an extensive range of high-tech gadgets at competitive prices. Shop with ease, compare products, and enjoy exclusive deals—all from the convenience of your mobile device. Experience cutting-edge shopping with Mega Top, where technology meets convenience!
+Mega Top is your premier destination for the latest technology devices. From smartphones to laptops, our app offers an extensive range of high-tech gadgets at competitive prices. Shop with ease, compare products, and enjoy exclusive deals—all from the convenience of your mobile device. Experience cutting-edge shopping with Mega Top, where technology meets convenience.
 
 
 
