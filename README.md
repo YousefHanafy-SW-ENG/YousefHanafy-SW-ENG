@@ -11,42 +11,65 @@
 <a href="https://twitter.com/yousef_hanafy4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousef_hanafy4" height="30" width="40" /></a>
 
 # Samples from my projects
+### Soil Spaces
+
+Soil Spaces is a workspace app designed for freelancers and remote teams to easily book offices, order coffee, join events, and manage memberships. It blends convenience, community, and flexibility into one seamless platform.
+
+
+
+
+[![appStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)]([https://apps.apple.com/eg/app/koala/id6745189505](https://apps.apple.com/eg/app/soil-spaces/id6746746526))
+[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/11cb6d44-934c-4865-94c1-601a01a9b135)]([https://play.google.com/store/apps/details?id=com.digifly.koala&pcampaignid=web_share](https://play.google.com/store/apps/details?id=com.soil.spaces)) 
+
+<hr>
 
 ### Koala
 
-The Koala application is your integrated platform to monitor and care for your child with ease and safety. Whether you want to monitor your child's growth, record their beautiful moments, or share experiences with other parents, Koala provides you with smart tools to support your parenting journey. Through the application, you can track your child’s development and document each stage of his development, share daily moments and tips with a supportive community of parents.
+Koala is a parenting app that helps you track your child’s growth, capture milestones, and connect with a supportive community. It offers smart tools for monitoring development and sharing moments with other parents along the journey.
 
 
 
 
-[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/11cb6d44-934c-4865-94c1-601a01a9b135)](https://play.google.com/store/apps/details?id=com.digifly.koala&pcampaignid=web_share) 
 [![appStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://apps.apple.com/eg/app/koala/id6745189505)
+[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/11cb6d44-934c-4865-94c1-601a01a9b135)](https://play.google.com/store/apps/details?id=com.digifly.koala&pcampaignid=web_share) 
 
 <hr>
 
 ### Mega Top 
 
-Mega Top is your premier destination for the latest technology devices. From smartphones to laptops, our app offers an extensive range of high-tech gadgets at competitive prices. Shop with ease, compare products, and enjoy exclusive deals—all from the convenience of your mobile device. Experience cutting-edge shopping with Mega Top, where technology meets convenience.
+Mega Top is a tech shopping app offering the latest gadgets from phones to laptops at competitive prices. Browse, compare, and shop with ease, all in one convenient platform.
 
 
 
 
 
-[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/11cb6d44-934c-4865-94c1-601a01a9b135)](https://play.google.com/store/apps/details?id=com.megaTop.mega_top_mobile&pcampaignid=web_share) 
 [![appStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://apps.apple.com/eg/app/megatop/id6714483744)
+[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/11cb6d44-934c-4865-94c1-601a01a9b135)](https://play.google.com/store/apps/details?id=com.megaTop.mega_top_mobile&pcampaignid=web_share) 
 
 <hr>
 
 ### Volunteers Life Makers
 
-Volunteers Life Makers application serves as a direct bridge for communication and participation in the wonderful humanitarian work undertaken by the foundation. It provides users with the opportunity to contribute to charitable projects and support those in need with ease and simplicity. The purpose of this application is to facilitate interaction and participation in philanthropic initiatives, enabling users to contribute to improving the lives of individuals in need.
+Volunteers Life Makers is a humanitarian app that connects users with charitable projects and volunteer opportunities. It makes it easy to participate in initiatives that support and uplift communities in need.
 
 
 
 
-
+[![appStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://apps.apple.com/eg/app/life-makers/id6473867192)
 [![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/11cb6d44-934c-4865-94c1-601a01a9b135)](https://play.google.com/store/apps/details?id=com.digifly.lifemakers) 
-[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://apps.apple.com/eg/app/life-makers/id6473867192)
+
+<hr>
+  
+### Road App 
+
+Road App connects car owners with trusted repair shops and service providers for fast, reliable help. Users can get quotes, schedule services, and read reviews, while vendors manage bookings and grow their business all through one streamlined platform.
+
+
+
+
+[![appStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)]([https://rb.gy/9p9zfz](https://apps.apple.com/eg/app/road-app/id6740161753))
+
+<hr>
 
 <hr>
 
@@ -58,21 +81,8 @@ Laam is a versatile dashboard platform designed specifically for educational org
 
 
 [![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/11cb6d44-934c-4865-94c1-601a01a9b135)](https://rb.gy/b1255g) 
-[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://rb.gy/b1255g)
+[![appStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://rb.gy/b1255g)
 
-<hr>
-  
-### Road App 
-
-Road App is an innovative mobile application designed to streamline and enhance car services for users. With a user-friendly interface, it provides a comprehensive platform for booking, managing, and accessing various car-related services, ensuring a smooth and efficient experience for car owners. Whether you need maintenance, repairs, or emergency assistance, Road App connects you with trusted service providers, offering convenience and peace of mind on the road.
-
-
-
-
-[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/11cb6d44-934c-4865-94c1-601a01a9b135)](https://rb.gy/9p9zfz) 
-[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://rb.gy/9p9zfz)
-
-<hr>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YousefHanafy-SW-ENG&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
