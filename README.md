@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Hanafy</h1>
 <h3 align="center">Mobile Software Engineer</h3>
 
-- Mobile Software Engineer with a strong focus on building scalable, high-quality mobile applications. I’ve led and contributed to full app lifecycles across industries like e-commerce, e-learning, donations, and workspace management. My experience includes working on advanced features such as online payments, loyalty systems, NFC integrations, and seamless store deployments. I collaborate effectively with cross-functional teams and thrive in both independent and team-driven environments. I also work within Agile frameworks, using tools like Jira and Asana to manage sprints, track tasks, and ensure smooth project execution.
+- Mobile Software Engineer with a strong focus on building scalable, high-quality mobile applications. I’ve led and contributed to full app lifecycles across industries like e-commerce, e-learning, donations, and workspace management. My experience includes working on advanced features such as online payments, loyalty systems, NFC integrations, and seamless store deployments. I collaborate effectively with cross-functional teams and thrive in both independent and team-driven environments. I also work within Agile frameworks, using tools like Jira and Asana to manage sprints, track tasks, and ensure smooth project execution, while applying design and architecture patterns to deliver maintainable and robust solutions.
      
 - 📫 How to reach me **yousef.hanafy@gmail.com**
 
