@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Hanafy</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
-- Software Engineer with 4 years of experience building scalable, end-to-end mobile applications across frontend and backend. Specialized in Flutter and iOS, with backend development using Node.js.
+- Software Engineer with 4 years of experience building scalable, robust mobile applications across frontend and backend. Specialized in Flutter and iOS, with backend development using Node.js.
      
 - 📫 How to reach me **yousef.hanafy@gmail.com**
 
