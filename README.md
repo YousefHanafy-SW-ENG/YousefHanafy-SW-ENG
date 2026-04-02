@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Hanafy</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
-- Senior Software Engineer shipping apps with Flutter and React Native, while also handling backend development with Node.js and Go (Still learning go actually). When I'm not writing code for my day job, I'm building my own SAAS and breaking down tech topics on YouTube.
+- Senior Software Engineer shipping apps with Flutter and IOS Native, while also handling backend development with Node.js and Go (Still learning go actually). When I'm not writing code for my day job, I'm building my own SAAS and breaking down tech topics on YouTube.
      
 - 📫 How to reach me **yousef.hanafy@gmail.com**
 
