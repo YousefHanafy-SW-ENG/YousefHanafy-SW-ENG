@@ -67,6 +67,28 @@ Road App connects car owners with trusted repair shops and service providers for
 
 <hr>
 
+### Laam for Parents
+
+A dedicated app for parents to easily track their child's attendance, behavior, and academic schedules in real-time. It offers instant notifications and a simple interface to effortlessly strengthen the partnership between home and school.
+
+
+
+[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/11cb6d44-934c-4865-94c1-601a01a9b135)](https://play.google.com/store/apps/details?id=com.laam.parents&pcampaignid=web_share)
+[![appStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://apps.apple.com/us/app/%D9%84%D8%A7%D9%85-%D9%84%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85%D9%8A%D9%86/id6757395525)
+
+<hr>
+
+### Laam for Administrators and Teachers
+
+A comprehensive app for teachers and administrators to securely manage daily school operations, attendance, and schedules in one place. It offers a user-friendly experience to efficiently handle tasks and performance evaluations directly from your mobile device.
+
+
+
+[![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/11cb6d44-934c-4865-94c1-601a01a9b135)](https://play.google.com/store/apps/details?id=com.laam.school&pcampaignid=web_share)
+[![appStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://apps.apple.com/us/app/%D9%84%D8%A7%D9%85-%D9%84%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85%D9%8A%D9%86/id6757395525)
+
+<hr>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YousefHanafy-SW-ENG&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
