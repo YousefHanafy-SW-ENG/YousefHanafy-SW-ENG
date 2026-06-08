@@ -74,7 +74,7 @@ A dedicated app for parents to easily track their child's attendance, behavior, 
 
 
 [![playStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/11cb6d44-934c-4865-94c1-601a01a9b135)](https://play.google.com/store/apps/details?id=com.laam.parents&pcampaignid=web_share)
-[![appStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://apps.apple.com/us/app/%D9%84%D8%A7%D9%85-%D9%84%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85%D9%8A%D9%86/id6757395525)
+[![appStoreIcon](https://github.com/YousefHanafy-SW-ENG/YousefHanafy-SW-ENG/assets/74376063/1985edea-08f2-4765-b6b8-6d6c9a52d2c5)](https://apps.apple.com/us/app/%D9%84%D8%A7%D9%85-%D9%84%D8%A3%D9%88%D9%84%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%B1/id6758572469)
 
 <hr>
 
